@@ -1,0 +1,53 @@
+Status: Em progresso
+
+Termina: 21/09/2021
+
+Módulos:
+
+Módulo 01: Boas-vindas ao Bootcamp everis New Talents Java
+
+Módulo 02: Bem-vindo à DIO
+
+Módulo 03: Lógica de Programação Essencial
+
+Módulo 04: Aprenda o que são Estrutura de Dados e Algoritmos
+
+Módulo 05: Introdução ao Git e ao GitHub
+
+Módulo 06: SQL SERVER - Criando suas primeiras consultas
+
+Módulo 07: Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
+
+Módulo 08: Dominando IDEs Java
+
+Módulo 09: Desenvolvimento básico em Java
+
+Módulo 10: Introdução a orientação a objetos com Java
+
+Módulo 11: Estrutura de dados em Java
+
+Módulo 12: Primeiros passos em Java
+
+Módulo 13: Fundamentos de Arquitetura de Sistemas
+
+Módulo 14: Arquitetura de Sistemas Avançado
+
+Módulo 15: Introdução ao framework Spring Boot
+
+Módulo 16: Trabalhando com Banco de Dados utilizando JDBC e JPA
+
+Módulo 17: Microsserviços em Spring Cloud com Java
+
+Módulo 18: Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot
+
+Módulo 19: Desafios matemáticos em Java
+
+Módulo 20: Introdução a Qualidade de Software
+
+Módulo 21: Aprenda a aplicar testes com Java
+
+Módulo 22: Introdução ao Junit 5
+
+Módulo 23: Desenvolvimento de testes unitários para validar uma API REST de gerenciamento estoques de cerveja
+
+Módulo 24: Resolvendo Desafios em Java
